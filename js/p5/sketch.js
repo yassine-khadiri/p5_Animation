@@ -1,6 +1,5 @@
 let posX = 0;
 let posY = 0;
-let speed = 3;
 let speedX = 3;
 let speedY = 3;
 let randomColor1 = 0;
